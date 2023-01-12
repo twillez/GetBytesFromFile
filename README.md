@@ -1,1 +1,3 @@
 # ByteFile
+
+command>> hex
